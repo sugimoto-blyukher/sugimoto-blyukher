@@ -3,7 +3,7 @@ name: Lang Pie
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * 1"   # 毎週月曜 12:17 JST 実行(適宜変更)
+    - cron: "10 15 * * *"   # 毎週月曜 15:10 JST 実行(適宜変更)
 
 permissions:
   contents: write
