@@ -52,7 +52,7 @@ EXT_MAP = {
     ".sh":"Shell", ".bash":"Shell", ".zsh":"Shell",
     ".php":"PHP", ".r":"R", ".jl":"Julia", ".hs":"Haskell", ".scala":"Scala", ".pl":"Perl", ".lua":"Lua",
     ".sql":"SQL", ".yml":"YAML", ".yaml":"YAML", ".toml":"TOML", ".json":"JSON",
-    ".html":"HTML", ".css":"CSS", ".scss":"CSS", ".md":"Markdown"
+    ".html":"HTML", ".css":"CSS", ".scss":"CSS", ".md":"Markdown", ".astro":"Astro"
 }
 
 def ext_to_lang(path:str):
