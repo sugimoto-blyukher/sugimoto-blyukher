@@ -36,7 +36,7 @@ jobs:
           THEME: "light"                          # "light" | "dark" | "transparent"
           MAX_COMMITS_PER_REPO: "200"             # STRICTモード時の1repo上限
         run: |
-          python scripts/lang_pie.py
+          python scripts/lang-pie.py
 
       - name: Commit & push if changed
         run: |
