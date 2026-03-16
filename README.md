@@ -1,5 +1,5 @@
 ## Profile
-[![Gitty Score](https://gitty-code.com/api/badge/${github_id}.png)](https://gitty-code.com/user/sugimoto-blyukher)
+[![Gitty Score](https://gitty-code.com/api/badge/sugimoto-blyukher.png)](https://gitty-code.com/user/sugimoto-blyukher)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugimoto-blyukher&theme=gruvbox)
