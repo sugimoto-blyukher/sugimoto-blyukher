@@ -1,3 +1,6 @@
+##Views
+![](https://komarev.com/ghpvc/?username=sugimoto-blyukher&color=green)
+
 ## Profile
 [![Gitty Score](https://gitty-code.com/api/badge/sugimoto-blyukher.png)](https://gitty-code.com/user/sugimoto-blyukher)
 
