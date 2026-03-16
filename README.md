@@ -1,4 +1,3 @@
-##Views
 ![](https://komarev.com/ghpvc/?username=sugimoto-blyukher&color=green)
 
 ## Profile
