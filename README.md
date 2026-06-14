@@ -14,6 +14,7 @@ I'm sugimoto-blyukher and interested in Low Layer/System programing and Emb syst
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sugimoto-blyukher&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sugimoto-blyukher&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sugimoto-blyukher&theme=gruvbox&utcOffset=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugimoto-blyukher&layout=compact)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=sugimoto-blyukher&theme=gruvbox)
