@@ -9,11 +9,8 @@ I'm sugimoto-blyukher and interested in Low Layer/System programing and Emb syst
 [![Gitty Score](https://gitty-code.com/api/badge/sugimoto-blyukher.png)](https://gitty-code.com/user/sugimoto-blyukher)
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugimoto-blyukher&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sugimoto-blyukher&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sugimoto-blyukher&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sugimoto-blyukher&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sugimoto-blyukher&theme=gruvbox&utcOffset=9)
+![sugimoto-blyukher's's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugimoto-blyukher&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/sugimoto-blyukher/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugimoto-blyukher&layout=compact)
 
 ## Trophy
