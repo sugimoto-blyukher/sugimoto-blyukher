@@ -13,5 +13,3 @@ I'm sugimoto-blyukher and interested in Low Layer/System programing and Emb syst
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugimoto-blyukher&layout=donut)](https://github.com/sugimoto-blyukher/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugimoto-blyukher&layout=compact)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=sugimoto-blyukher&theme=gruvbox)
