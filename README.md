@@ -8,8 +8,6 @@ I'm sugimoto-blyukher and interested in Low Layer/System Software and Emb system
 ## Profile
 [![Gitty Score](https://gitty-code.com/api/badge/sugimoto-blyukher.png)](https://gitty-code.com/user/sugimoto-blyukher)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugimoto-blyukher&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sugimoto-blyukher)](https://github.com/stats-organization/github-stats-extended)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sugimoto-blyukher&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sugimoto-blyukher&theme=juicyfresh&no-bg=true" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sugimoto-blyukher&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=sugimoto-blyukher&langs_count=6&theme=light_github)
