@@ -17,10 +17,8 @@ I'm interested in how computers work close to the hardware, especially **RISC-V*
 | Project                                                                           | Description                                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [**Sugimotos**](https://github.com/sugimoto-blyukher/sugimotos)                   | A 32-bit RISC-V monolithic OS for QEMU's `virt` machine, using OpenSBI and VirtIO devices. |
-| [**Verilog Practice**](https://github.com/sugimoto-blyukher/verilog_practice)     | Exercises in Verilog and digital hardware design.                                          |
 | [**Yamaokaya Review API**](https://github.com/sugimoto-blyukher/yamaokaya-review) | A REST API built with Go, Gin, GORM, and SQLite, including handler tests.                  |
 | [**Kirakiraname**](https://github.com/sugimoto-blyukher/kirakiraname)             | Backend development for a team hackathon project.                                          |
-| [**Homelab**](https://github.com/sugimoto-blyukher/homelab)                       | Self-hosted infrastructure using Proxmox VE, Terraform, and Ansible.                       |
 
 ## ⚙️ Tools & technologies
 
