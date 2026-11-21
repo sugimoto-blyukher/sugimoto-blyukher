@@ -36,9 +36,6 @@ I'm interested in how computers work close to the hardware, especially **RISC-V*
 
 [![sugimoto-blyukher profile views](https://u8views.com/api/v1/github/profiles/143075979/views/day-week-month-total-count.svg)](https://u8views.com/github/sugimoto-blyukher)
 
-## Introduction
-I'm sugimoto-blyukher and interested in Low Layer/System Software and Emb system
-
 ## Profile
 [![Gitty Score](https://gitty-code.com/api/badge/sugimoto-blyukher.png)](https://gitty-code.com/user/sugimoto-blyukher)
 
