@@ -23,7 +23,6 @@ The project emphasizes human agency, explicit authorization, and security bounda
 
 - [Source code](https://github.com/sugimoto-blyukher/sprint-relay)
 - [Documentation](https://sugimoto-blyukher.github.io/sprint-relay/)
-- [Design philosophy](https://github.com/sugimoto-blyukher/sprint-relay/blob/main/PHILOSOPHY.en.md)
 
 ## 🛠 Selected projects
 
